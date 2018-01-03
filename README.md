@@ -5,4 +5,4 @@ First Git repository, for testing purposes only.
 
 Our repository will contain some useful bootstrap development workarounds, and some other nifty UI components.  
 
-Free to all.
+### Free to all.
