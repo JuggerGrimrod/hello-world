@@ -1,8 +1,8 @@
-# YE AULD OBLIGATORY 'hello-world' TUT
-First Git repository, for testing purposes only.
+# YE AULD OBLIGATORY 'hello-world' REPO
+First Git repository, for amusement and posterity only.
 
-# Jugger Grimrod's README.md file v1.0
+# Jugger Grimrod's 'hello world' README.md file v1.0
 
-Our repository will contain a few useful bootstrap development workarounds, and some other nifty UI components.  
+Jugger's Git repositories will minimally contain some useful bootstrap development workarounds, an ajax/js/php contact form, and some other nifty UI components.  
 
 ### Free to all.
